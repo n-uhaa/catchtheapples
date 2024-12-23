@@ -1,5 +1,3 @@
-//Nuha Samen & Emaan Taswar
-//January 8th 2023
 //Summative Project - catch the apples: A fun game to test your reaction time!
 //start panel - controls the introduction panel including the buttons and graphics
 
