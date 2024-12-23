@@ -1,6 +1,5 @@
-//Nuha Samen & Emaan Taswar
 //January 8th 2023
-//Summative Project - catch the apples: A fun game to test your reaction time!
+//Project - catch the apples: A fun game to test your reaction time!
 //Apple class - controls the apples movements and configurations 
 
 import java.awt.*;
