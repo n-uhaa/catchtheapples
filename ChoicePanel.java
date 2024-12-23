@@ -1,5 +1,3 @@
-//Nuha Samen & Emaan Taswar
-//January 8th 2023
 //Summative Project - catch the apples: A fun game to test your reaction time!
 /*choice panel class - controls the panel that allows user to choose difficulty level
 controls the 3 buttons on the screen and uses input to change speed/difficulty of the game*/
